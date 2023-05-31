@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.head {
+    background-color: cadetblue;
+    display: flex;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo {
+    margin-top: 50px;
+}
+
+body {
+    background-color: #e6e6e6;
+}
+
+.rodape {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    bottom: 1000px;
+    position: absolute;
+    bottom: 0px;
+    flex-wrap: wrap;
+}
+
+.card-body {
+    background-color: cadetblue;
+}
