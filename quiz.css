@@ -1,0 +1,33 @@
+body{
+   background-color: #505050;
+    display: inline;
+}
+.inicio{
+    background-color: aliceblue;
+    display: block;
+    padding: 10px;
+    border-radius: 20px;
+}
+.corpo{
+    background-color:#FFA559;
+    display: block;
+    padding: 80px;
+    border-radius: 20px;    
+}
+.form-check{
+    background-color: aliceblue;
+    display: block;
+    padding: 1px;
+    border-radius: 5px;
+}
+mark{
+    background-color: aliceblue;
+    display: block;
+    padding: 10px;
+    border-radius: 20px
+}
+button{
+    border: solid 1px;
+    border-radius: 20px;
+    background-color: white;
+}
